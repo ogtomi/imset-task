@@ -1,0 +1,33 @@
+.navbar-text {
+    text-decoration: none;
+}
+.static-text {
+    color: gainsboro;
+}
+.numbers {
+    color: chartreuse;
+}
+.tiles {
+    align-items: center;
+}
+.tile-large {
+    background-color: purple;
+    width: 60%;
+    height: 280px;
+}
+.tile-small {
+    background-color: purple;
+    width: 30%;
+    height: 280px;
+}
+.tile-text {
+    color: white
+}
+.description-text {
+    color:white;
+    font-size: 12;
+}
+.footer-col {
+    justify-content: left;
+    font-size: 10;
+}
